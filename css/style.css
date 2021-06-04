@@ -3,6 +3,15 @@ body, h1, h2, ul, li, p, dd, dt, dl {
     padding: 0px;
   }
   
+
+html.textomaior{
+  font-size: 150%;
+}
+
+.azul {
+  background: teal;
+}
+
   img {
     display: block;
     max-width: 100%;
@@ -35,7 +44,7 @@ body, h1, h2, ul, li, p, dd, dt, dl {
   
   .menu li a {
     display: block;
-    padding: 10px;
+    padding: 16px 12px;
     margin-right: 10px;
     color: #222;
     text-decoration: none;
